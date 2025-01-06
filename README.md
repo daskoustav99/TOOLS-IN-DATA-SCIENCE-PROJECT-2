@@ -8,9 +8,9 @@ To generate meaningful data visualizations supporting the analysis.
 
 To narrate a coherent, insightful story summarizing the findings and their implications.
 
-The script achieves these by:
+# The script achieves these by:
 
-# Accepting a CSV file as input.
+Accepting a CSV file as input.
 
 Conducting generic analysis and summarizing key features of the dataset.
 
